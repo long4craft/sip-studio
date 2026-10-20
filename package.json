@@ -1,0 +1,1 @@
+{"name":"sip-studio","version":"1.0.0","private":true,"type":"module","description":"SIP STUDIO — colorful tumbler brand concept","scripts":{"build":"node build.mjs","preview":"python3 -m http.server 4318 --bind 127.0.0.1 --directory dist"},"engines":{"node":">=18"}}
